@@ -8,11 +8,11 @@
 
 - <b>osTicket(Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/baroliaimran/osticket-prereqs)
-  - [osTicket: Prerequisites and Installation](https://github.com/baroliaimran/)
-  - [osTicket: Prerequisites and Installation](https://github.com/baroliaimran/)
+  - [osTicket: Prerequisites and Installation](https://github.com/baroliaimran/post-install-config)
+  - [osTicket: Prerequisites and Installation](https://github.com/baroliaimran/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/baroliaimran/)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/baroliaimran/)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/baroliaimran/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/baroliaimran/azure-network-protocols/)
 
 
 <!--
