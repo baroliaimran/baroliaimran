@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Imran, an up-and-coming IT Professional 👋
 
 <!--
 **baroliaimran/baroliaimran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
