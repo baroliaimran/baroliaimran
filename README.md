@@ -7,7 +7,7 @@
 </h2>
 
 - <b>osTicket(Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/baroliaimran/)
+  - [osTicket: Prerequisites and Installation](https://github.com/baroliaimran/osticket-prereqs)
   - [osTicket: Prerequisites and Installation](https://github.com/baroliaimran/)
   - [osTicket: Prerequisites and Installation](https://github.com/baroliaimran/)
 - <b>Microsoft Azure</b>
