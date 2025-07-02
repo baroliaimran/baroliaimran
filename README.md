@@ -10,10 +10,12 @@
   - [osTicket: Prerequisites and Installation](https://github.com/baroliaimran/osticket-prereqs)
   - [osTicket: Post-Install Configuration](https://github.com/baroliaimran/post-install-config)
   - [osTicket: Ticket Lifecycle: From Intake Through Resolution](https://github.com/baroliaimran/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+
+
+<!-- - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/baroliaimran/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/baroliaimran/azure-network-protocols/)
-
+-->
 
 <!--
 **baroliaimran/baroliaimran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
